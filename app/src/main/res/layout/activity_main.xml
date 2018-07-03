@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.crm.test.vcrm_iam_test.MainActivity">
+
+    <Button
+        android:id="@+id/api"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="143dp"
+        android:text="Hit CRM API"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="143dp" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/api"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="107dp"
+        android:text="Logout"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="258dp" />
+</RelativeLayout>

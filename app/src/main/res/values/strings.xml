@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">test_IAM</string>
+    <string name="custom_title">test_IAM</string>
+
+    <string name="url_scheme">boopathytest</string>
+    //For Vertical
+    <string name="c_id">10005193045.OF26MD83PIMP153816AQ6L2R2RUVC1</string>
+    <string name="c_secret">f75b3757773eecddafa8d5884d0fe7f7fed4eacbfc</string>
+    <string name="c_portal">10005193045</string>
+    <string name="redir_url">boopathytest://</string>
+    <string name="iam_portal_url">https://accounts.zohoportal.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
